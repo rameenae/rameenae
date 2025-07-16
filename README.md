@@ -30,9 +30,9 @@ Check out my repositories — more updates coming soon.
 
 ### 📫 Get in Touch
 
-- **Email:** rameen.your@email.com *(replace this with your real one)*  
+- **Email:** rameenahmad69@email.com 
 - **GitHub:** [github.com/rameenae](https://github.com/rameenae)  
-- *(LinkedIn link if available)*
+
 
 ---
 
