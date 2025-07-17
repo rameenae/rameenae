@@ -38,5 +38,5 @@ Check out my repositories — more updates coming soon.
 
 ### ⚡ Fun Fact
 
-I treat code like a presentation: clear, structured, and built to leave an impression.## Hi there 👋
+I treat code like a presentation: clear, structured, and built to leave an impression.
 
